@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/16O4p5V5FObvSjBeqpJ-zOQ05ryQV1W0C/edit?usp=sharing&ouid=103698505382008269959&rtpof=true&sd=true
+https://docs.google.com/presentation/d/16O4p5V5FObvSjBeqpJ-zOQ05ryQV1W0C/edit?usp=sharing&ouid=103698505382008269959&rtpof=true&sd=tru
 
 Project title:
 Watermelon Leaf Detection Using Transfer Learning And EX-AI 

@@ -8,7 +8,7 @@ Paper title:
 Watermelon Leaf Detection Using Transfer Learning And EX-AI
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/10CPajPqTjNIMUJ9BDc4GshdloJdEgzjxCWb01MqTUw0/edit?usp=sharing
 
 Group Number:
 3

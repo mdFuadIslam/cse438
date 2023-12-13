@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/vjprftdncdfz#26b6de
 
 Unlisted YouTube video:
-
+https://youtu.be/Y5RYGhJgTvQ
 
 Paper title:
 Watermelon Leaf Detection Using Transfer Learning And EX-AI
